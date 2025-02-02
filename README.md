@@ -20,7 +20,7 @@ To get started with a challenge:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/mentorship-challenges.git
+   git clone https://github.com/daniangelos/mentorship-challenges.git
    cd mentorship-challenges
 
 2. **Navigate to the Challenge Directory**
